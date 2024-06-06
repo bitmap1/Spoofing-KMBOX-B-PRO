@@ -16,12 +16,19 @@ Then go to details, then select the Hardware IDs tab in the drop down menu
 It should say VID_XXXX & PID_XXXX (where it says XXXX, it will be your mouse VID and PID, its a hexidecimal number 13AC for example)
 Heres some screenshots to explain:
 ![image](https://github.com/bitmap1/Spoofing-KMBOX-B-PRO/assets/153444846/91300937-d402-4aa8-a3d8-eb5bac8efe20)
+
 ![image](https://github.com/bitmap1/Spoofing-KMBOX-B-PRO/assets/153444846/3063141f-efbd-45a9-b0f2-3b2bbbb39aaa)
+
 ![image](https://github.com/bitmap1/Spoofing-KMBOX-B-PRO/assets/153444846/87180c27-c212-428c-99a5-4c1b4d675035)
+
 ![image](https://github.com/bitmap1/Spoofing-KMBOX-B-PRO/assets/153444846/17268578-4189-4f9f-90fe-5afab7633ca6)
+
 ![image](https://github.com/bitmap1/Spoofing-KMBOX-B-PRO/assets/153444846/1221c230-6abe-48a0-9a9a-e5f7906b218c)
+
 ![image](https://github.com/bitmap1/Spoofing-KMBOX-B-PRO/assets/153444846/27101c11-d1a5-4fc0-a476-0031f1b8664d)
+
 ![image](https://github.com/bitmap1/Spoofing-KMBOX-B-PRO/assets/153444846/ed4b467b-974b-4d59-8050-2e8db42a1a5d)
+
 ![image](https://github.com/bitmap1/Spoofing-KMBOX-B-PRO/assets/153444846/627026e8-99b8-4f53-b5e9-7dba0796e2c5)
 
 Step 4:
